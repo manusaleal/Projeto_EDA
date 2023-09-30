@@ -35,3 +35,11 @@ DUPLAS
 1	- Desiree e Renan
 2	- Ingrid e Maria
 3	- Manusa e Douglas
+
+### Instalação
+
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar as dependências necessárias.
+
+```bash
+pip install -r requirements.txt
+```
